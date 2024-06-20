@@ -1,0 +1,269 @@
+{
+  "countries": [
+    {
+      "code": "af",
+      "name": "Afghanistan",
+      "flag": "af"
+    },
+    {
+      "code": "al",
+      "name": "Albania",
+      "flag": "al"
+    },
+    {
+      "code": "dz",
+      "name": "Algeria",
+      "flag": "dz"
+    },
+    {
+      "code": "ad",
+      "name": "Andorra",
+      "flag": "ad"
+    },
+    {
+      "code": "ao",
+      "name": "Angola",
+      "flag": "ao"
+    },
+    {
+      "code": "ag",
+      "name": "Antigua and Barbuda",
+      "flag": "ag"
+    },
+    {
+      "code": "ar",
+      "name": "Argentina",
+      "flag": "ar"
+    },
+    {
+      "code": "am",
+      "name": "Armenia",
+      "flag": "am"
+    },
+    {
+      "code": "au",
+      "name": "Australia",
+      "flag": "au"
+    },
+    {
+      "code": "at",
+      "name": "Austria",
+      "flag": "at"
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijan",
+      "flag": "az"
+    },
+    {
+      "code": "bs",
+      "name": "Bahamas",
+      "flag": "bs"
+    },
+    {
+      "code": "bh",
+      "name": "Bahrain",
+      "flag": "bh"
+    },
+    {
+      "code": "bd",
+      "name": "Bangladesh",
+      "flag": "bd"
+    },
+    {
+      "code": "bb",
+      "name": "Barbados",
+      "flag": "bb"
+    },
+    {
+      "code": "by",
+      "name": "Belarus",
+      "flag": "by"
+    },
+    {
+      "code": "be",
+      "name": "Belgium",
+      "flag": "be"
+    },
+    {
+      "code": "bz",
+      "name": "Belize",
+      "flag": "bz"
+    },
+    {
+      "code": "bj",
+      "name": "Benin",
+      "flag": "bj"
+    },
+    {
+      "code": "bt",
+      "name": "Bhutan",
+      "flag": "bt"
+    },
+    {
+      "code": "bo",
+      "name": "Bolivia",
+      "flag": "bo"
+    },
+    {
+      "code": "ba",
+      "name": "Bosnia and Herzegovina",
+      "flag": "ba"
+    },
+    {
+      "code": "bw",
+      "name": "Botswana",
+      "flag": "bw"
+    },
+    {
+      "code": "br",
+      "name": "Brazil",
+      "flag": "br"
+    },
+    {
+      "code": "bn",
+      "name": "Brunei",
+      "flag": "bn"
+    },
+    {
+      "code": "bg",
+      "name": "Bulgaria",
+      "flag": "bg"
+    },
+    {
+      "code": "bf",
+      "name": "Burkina Faso",
+      "flag": "bf"
+    },
+    {
+      "code": "bi",
+      "name": "Burundi",
+      "flag": "bi"
+    },
+    {
+      "code": "cv",
+      "name": "Cabo Verde",
+      "flag": "cv"
+    },
+    {
+      "code": "kh",
+      "name": "Cambodia",
+      "flag": "kh"
+    },
+    {
+      "code": "cm",
+      "name": "Cameroon",
+      "flag": "cm"
+    },
+    {
+      "code": "ca",
+      "name": "Canada",
+      "flag": "ca"
+    },
+    {
+      "code": "cf",
+      "name": "Central African Republic",
+      "flag": "cf"
+    },
+    {
+      "code": "td",
+      "name": "Chad",
+      "flag": "td"
+    },
+    {
+      "code": "cl",
+      "name": "Chile",
+      "flag": "cl"
+    },
+    {
+      "code": "cn",
+      "name": "China",
+      "flag": "cn"
+    },
+    {
+      "code": "co",
+      "name": "Colombia",
+      "flag": "co"
+    },
+    {
+      "code": "km",
+      "name": "Comoros",
+      "flag": "km"
+    },
+    {
+      "code": "cd",
+      "name": "Congo (Congo-Brazzaville)",
+      "flag": "cd"
+    },
+    {
+      "code": "cr",
+      "name": "Costa Rica",
+      "flag": "cr"
+    },
+    {
+      "code": "hr",
+      "name": "Croatia",
+      "flag": "hr"
+    },
+    {
+      "code": "cu",
+      "name": "Cuba",
+      "flag": "cu"
+    },
+    {
+      "code": "cy",
+      "name": "Cyprus",
+      "flag": "cy"
+    },
+    {
+      "code": "cz",
+      "name": "Czech Republic",
+      "flag": "cz"
+    },
+    {
+      "code": "dk",
+      "name": "Denmark",
+      "flag": "dk"
+    },
+    {
+      "code": "dj",
+      "name": "Djibouti",
+      "flag": "dj"
+    },
+    {
+      "code": "dm",
+      "name": "Dominica",
+      "flag": "dm"
+    },
+    {
+      "code": "do",
+      "name": "Dominican Republic",
+      "flag": "do"
+    },
+    {
+      "code": "tl",
+      "name": "East Timor (Timor-Leste)",
+      "flag": "tl"
+    },
+    {
+      "code": "ec",
+      "name": "Ecuador",
+      "flag": "ec"
+    },
+    {
+      "code": "eg",
+      "name": "Egypt",
+      "flag": "eg"
+    },
+    {
+      "code": "sv",
+      "name": "El Salvador",
+      "flag": "sv"
+    },
+    {
+      "code": "gq",
+      "name": "Equatorial Guinea",
+      "flag": "gq"
+    }
+  ]
+}
